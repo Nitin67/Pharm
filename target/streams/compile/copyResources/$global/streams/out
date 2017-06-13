@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/nitinmaheshwari/workspace/pharm-assignment/conf/application.conf,/Users/nitinmaheshwari/workspace/pharm-assignment/target/scala-2.11/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/Users/nitinmaheshwari/workspace/pharm-assignment/conf/logback.xml,/Users/nitinmaheshwari/workspace/pharm-assignment/target/scala-2.11/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/Users/nitinmaheshwari/workspace/pharm-assignment/conf/routes,/Users/nitinmaheshwari/workspace/pharm-assignment/target/scala-2.11/classes/routes)[0m

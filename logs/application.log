@@ -1,0 +1,61 @@
+2017-06-12 17:02:56,848 [INFO] from application in ForkJoinPool-1-worker-1 - ApplicationTimer demo: Starting application at 2017-06-12T11:32:56.847Z
+2017-06-12 17:02:58,075 [INFO] from application in ForkJoinPool-1-worker-1 - Initialized mongo bean
+2017-06-12 17:02:58,116 [INFO] from application in ForkJoinPool-1-worker-1 - Creating Mongo Doctor Dao
+2017-06-12 17:02:58,118 [INFO] from application in ForkJoinPool-1-worker-1 - Initialized mongo bean
+2017-06-12 17:02:58,123 [INFO] from application in ForkJoinPool-1-worker-1 - Initialized mongo bean
+2017-06-12 17:02:58,127 [INFO] from application in ForkJoinPool-1-worker-1 - Creating Mongo Doctor Dao
+2017-06-12 17:02:58,129 [INFO] from application in ForkJoinPool-1-worker-1 - Initialized mongo bean
+2017-06-12 17:02:58,130 [INFO] from application in ForkJoinPool-1-worker-1 - Initialized mongo bean
+2017-06-12 17:02:58,141 [INFO] from play.api.Play in ForkJoinPool-1-worker-1 - Application started (Dev)
+2017-06-12 17:06:24,872 [INFO] from application in application-akka.actor.default-dispatcher-28 - ApplicationTimer demo: Stopping application at 2017-06-12T11:36:24.872Z after 208s.
+2017-06-12 17:06:25,007 [INFO] from application in application-akka.actor.default-dispatcher-28 - ApplicationTimer demo: Starting application at 2017-06-12T11:36:25.007Z
+2017-06-12 17:06:25,137 [INFO] from application in application-akka.actor.default-dispatcher-28 - Initialized mongo bean
+2017-06-12 17:06:25,144 [INFO] from application in application-akka.actor.default-dispatcher-28 - Creating Mongo Doctor Dao
+2017-06-12 17:06:25,145 [INFO] from application in application-akka.actor.default-dispatcher-28 - Initialized mongo bean
+2017-06-12 17:06:25,151 [INFO] from application in application-akka.actor.default-dispatcher-28 - Initialized mongo bean
+2017-06-12 17:06:25,154 [INFO] from application in application-akka.actor.default-dispatcher-28 - Creating Mongo Doctor Dao
+2017-06-12 17:06:25,155 [INFO] from application in application-akka.actor.default-dispatcher-28 - Initialized mongo bean
+2017-06-12 17:06:25,157 [INFO] from application in application-akka.actor.default-dispatcher-28 - Initialized mongo bean
+2017-06-12 17:06:25,160 [INFO] from play.api.Play in application-akka.actor.default-dispatcher-28 - Application started (Dev)
+2017-06-12 17:07:34,360 [INFO] from application in application-akka.actor.default-dispatcher-6 - ApplicationTimer demo: Stopping application at 2017-06-12T11:37:34.360Z after 69s.
+2017-06-12 17:07:34,496 [INFO] from application in application-akka.actor.default-dispatcher-6 - ApplicationTimer demo: Starting application at 2017-06-12T11:37:34.496Z
+2017-06-12 17:07:38,044 [INFO] from application in application-akka.actor.default-dispatcher-6 - Initialized mongo bean
+2017-06-12 17:07:38,049 [INFO] from application in application-akka.actor.default-dispatcher-6 - Creating Mongo Doctor Dao
+2017-06-12 17:07:38,050 [INFO] from application in application-akka.actor.default-dispatcher-6 - Initialized mongo bean
+2017-06-12 17:07:38,054 [INFO] from application in application-akka.actor.default-dispatcher-6 - Initialized mongo bean
+2017-06-12 17:07:38,057 [INFO] from application in application-akka.actor.default-dispatcher-6 - Creating Mongo Doctor Dao
+2017-06-12 17:07:38,058 [INFO] from application in application-akka.actor.default-dispatcher-6 - Initialized mongo bean
+2017-06-12 17:07:38,059 [INFO] from application in application-akka.actor.default-dispatcher-6 - Initialized mongo bean
+2017-06-12 17:07:38,062 [INFO] from play.api.Play in application-akka.actor.default-dispatcher-6 - Application started (Dev)
+2017-06-12 17:07:45,793 [INFO] from application in application-akka.actor.default-dispatcher-9 - Getting patient Entity for id: 593168e363c4599909d6393b
+2017-06-12 17:07:48,496 [INFO] from application in application-akka.actor.default-dispatcher-9 - Getting Patient Entity for user id: 593168e363c4599909d6393b
+2017-06-12 20:33:15,129 [INFO] from application in application-akka.actor.default-dispatcher-6 - ApplicationTimer demo: Stopping application at 2017-06-12T15:03:15.129Z after 12341s.
+2017-06-12 20:33:15,420 [INFO] from application in application-akka.actor.default-dispatcher-6 - ApplicationTimer demo: Starting application at 2017-06-12T15:03:15.420Z
+2017-06-12 20:33:17,621 [INFO] from application in application-akka.actor.default-dispatcher-6 - Initialized mongo bean
+2017-06-12 20:33:17,627 [INFO] from application in application-akka.actor.default-dispatcher-6 - Creating Mongo Doctor Dao
+2017-06-12 20:33:17,628 [INFO] from application in application-akka.actor.default-dispatcher-6 - Initialized mongo bean
+2017-06-12 20:33:17,631 [INFO] from application in application-akka.actor.default-dispatcher-6 - Initialized mongo bean
+2017-06-12 20:33:17,635 [INFO] from application in application-akka.actor.default-dispatcher-6 - Creating Mongo Doctor Dao
+2017-06-12 20:33:17,636 [INFO] from application in application-akka.actor.default-dispatcher-6 - Initialized mongo bean
+2017-06-12 20:33:17,637 [INFO] from application in application-akka.actor.default-dispatcher-6 - Initialized mongo bean
+2017-06-12 20:33:17,641 [INFO] from play.api.Play in application-akka.actor.default-dispatcher-6 - Application started (Dev)
+2017-06-12 20:34:27,949 [INFO] from application in application-akka.actor.default-dispatcher-4 - ApplicationTimer demo: Stopping application at 2017-06-12T15:04:27.949Z after 72s.
+2017-06-12 20:34:28,097 [INFO] from application in application-akka.actor.default-dispatcher-4 - ApplicationTimer demo: Starting application at 2017-06-12T15:04:28.097Z
+2017-06-12 20:34:28,163 [INFO] from application in application-akka.actor.default-dispatcher-4 - Initialized mongo bean
+2017-06-12 20:34:28,168 [INFO] from application in application-akka.actor.default-dispatcher-4 - Creating Mongo Doctor Dao
+2017-06-12 20:34:28,169 [INFO] from application in application-akka.actor.default-dispatcher-4 - Initialized mongo bean
+2017-06-12 20:34:28,172 [INFO] from application in application-akka.actor.default-dispatcher-4 - Initialized mongo bean
+2017-06-12 20:34:28,174 [INFO] from application in application-akka.actor.default-dispatcher-4 - Creating Mongo Doctor Dao
+2017-06-12 20:34:28,175 [INFO] from application in application-akka.actor.default-dispatcher-4 - Initialized mongo bean
+2017-06-12 20:34:28,176 [INFO] from application in application-akka.actor.default-dispatcher-4 - Initialized mongo bean
+2017-06-12 20:34:28,180 [INFO] from play.api.Play in application-akka.actor.default-dispatcher-4 - Application started (Dev)
+2017-06-12 22:43:55,692 [INFO] from application in application-akka.actor.default-dispatcher-3 - ApplicationTimer demo: Stopping application at 2017-06-12T17:13:55.692Z after 7767s.
+2017-06-12 22:43:55,802 [INFO] from application in application-akka.actor.default-dispatcher-3 - ApplicationTimer demo: Starting application at 2017-06-12T17:13:55.801Z
+2017-06-12 22:43:55,869 [INFO] from application in application-akka.actor.default-dispatcher-3 - Initialized mongo bean
+2017-06-12 22:43:55,874 [INFO] from application in application-akka.actor.default-dispatcher-3 - Creating Mongo Doctor Dao
+2017-06-12 22:43:55,875 [INFO] from application in application-akka.actor.default-dispatcher-3 - Initialized mongo bean
+2017-06-12 22:43:55,878 [INFO] from application in application-akka.actor.default-dispatcher-3 - Initialized mongo bean
+2017-06-12 22:43:55,881 [INFO] from application in application-akka.actor.default-dispatcher-3 - Creating Mongo Doctor Dao
+2017-06-12 22:43:55,881 [INFO] from application in application-akka.actor.default-dispatcher-3 - Initialized mongo bean
+2017-06-12 22:43:55,882 [INFO] from application in application-akka.actor.default-dispatcher-3 - Initialized mongo bean
+2017-06-12 22:43:55,886 [INFO] from play.api.Play in application-akka.actor.default-dispatcher-3 - Application started (Dev)
